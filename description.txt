@@ -1,0 +1,17 @@
+Project Requirements:
+
+1) Implement the function 'find_file()' which recursively searches the provided directory and its subdirectories to locate any file that matches the provided file name. Make sure to read the provided code FIRST before beginning the assignment.
+
+2) Test your code against the provided directory structure and answer files.
+
+   For example, executing './a.out . b.out' should generate the same output as what is shown in the 'ans1' file.
+
+   Executing './a.out . a.out' should generate the same output as what is shown in the 'ans2' file.
+
+   Play around with different directory structures and file names to make sure your code works correctly - your assignment will be evaluated on a different input directory structure and file names.
+
+3) Commit your code and push it to Bitbucket.
+
+4) Make sure the change has been successfully pushed to Bitbucket by going to your repo on the Bitbucket website and reading your main.c file
+
+ 
